@@ -1,2 +1,2 @@
-# Pytorch-LayerNorm
-PyTorch LayerNorm Implementation
+# Pytorch-GroupNorm
+PyTorch GroupNorm Implementation
